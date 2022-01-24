@@ -8,6 +8,7 @@ import $ from 'jquery';
 import Popper from 'popper.js';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import css from './index.css'
 
 ReactDOM.render(
   <React.StrictMode>

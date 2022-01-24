@@ -1,6 +1,5 @@
 import React from "react";
 import projectlist from "../../projectList";
-import css from '../../index.css'
 
 function ProjectPage() {
   return (

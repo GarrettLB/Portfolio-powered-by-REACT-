@@ -3,7 +3,7 @@ import Navigation from './Navigation';
 
 function Header({ currentPage, handlePageChange }) {
   return (
-    <div>
+    <div class="bg">
       <h1>Garrett's Portfolio</h1>
 
       <div>
