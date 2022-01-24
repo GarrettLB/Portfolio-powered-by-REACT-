@@ -14,18 +14,17 @@ function About() {
         <h1 class="text-center">About Me</h1>
 
         <p class="border border border-2 p-height p-3">
-          Hello all! Welcome to my personal portfolio page. I made it from scratch using React and Bootstrap. Heres a few facts about me: My name is Garrett. I am currently 22 years old and I live in a Metro-Atlanta city in Georgia called Marietta. 
-          I graduated early from highschool at 16 and took a 2 year Welding and Joining Technologies course at Chattahoochee Tech at 17. 
-          In my spare time I pursue weight lifting and sports, as well as participate in volunteer work. 
-          And although not very physical like my other interests, I've always been interested in computers!
+          Hello all! Welcome to my personal portfolio page. I made it from scratch using React and Bootstrap. Here's a few facts 
+          about me: My name is Garrett. I am 23 years old and I live in Metro Atlanta, and if you weren't able to tell already, 
+          I'm an aspiring Web Developer! My journey so far has been nothing but great. I was introduced to the idea of Web Development 
+          as an occupation by a friend. As I started self-learning how to code, I quickly fell in love with it. 
+          I liked it so much that I decided to take the next step, and enrolled in GA Tech's Full Stack Coding Bootcamp!
           <br></br><br></br>
-          My last several jobs over the years have all been in the contruction feild. 
-          I've held several different positions, with a wide range from general construction, to grading, to framing, to welding, to electrical.
-          But it's time for a change! I was introduced to the idea of Web Development as an occupation by a friend. I started self-learning how to code and quickly fell in love with it. 
-          I liked it so much that I decided to take the next step, and enrolled in GA Tech's Full Stack Coding Bootcamp! 
-          I'm enjoying the journey of learning and am eager for my first job in the feild. 
+          With the instructor's help I've learned many powerful development skills such as: JavaScript, Node.js, Express.js, 
+          RESTful Api's, graphQL, Bootstrap, HTML, CSS, MySQL, MongDB, and as you can see from this page, REACT! I'm enjoying 
+          the journey of learning and am eager for my first job in the feild. 
           <br></br><br></br>
-          If you want to see the accomplishments I'm most proud of, check out the Projects section.
+          If you want to see the accomplishments I'm most proud of, check out the Projects tab.
           And if you want to reach me, check out my resume, or see my other projects on Github, check out the links in the footer.
         </p>
       </div>
