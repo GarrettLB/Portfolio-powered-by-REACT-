@@ -5,9 +5,9 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 function Footer() {
   return (
     <div>
-        <FontAwesomeIcon icon={faEnvelope} />
-        <FontAwesomeIcon icon={faLinkedin} />
-        <FontAwesomeIcon icon={faGithub} />
+      <FontAwesomeIcon icon={faEnvelope} />
+      <FontAwesomeIcon icon={faLinkedin} />
+      <FontAwesomeIcon icon={faGithub} />
     </div>
   )
 };
