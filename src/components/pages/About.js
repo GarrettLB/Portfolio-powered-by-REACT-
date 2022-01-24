@@ -1,11 +1,17 @@
 import React from "react";
+import ProfilePic from '../../images/ProfilePic.JPG'
 
 function About() {
   return (
     <div class="row m-3 border-bottom border-top border-dark justify-content-center">
-      <div class="col-12 col-lg-8 d-flex flex-column">
-        <h1 class="text-center">About Me</h1>
+      
+      <h1 class="text-center">About Me</h1>
 
+      <div class="col-12 col-lg-3 m-3 d-flex justify-content-center">
+        <img src={ProfilePic} class="img-fluid profile-pic" alt="Profile Pic"></img>
+      </div>
+
+      <div class="col-12 col-lg-8 d-flex flex-row">
         <p class="border border border-2 p-height p-3">
           Hello all! Heres a few facts about me: My name is Garrett. I am currently 22 years old and I live in a Metro-Atlanta city in Georgia called Marietta. 
           I graduated early from highschool at 16 and took a 2 year Welding and Joining Technologies course at Chattahoochee Tech at 17. 

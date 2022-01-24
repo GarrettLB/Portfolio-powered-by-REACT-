@@ -2,11 +2,11 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import React, { useState } from 'react';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+
 function Footer() {
   return (
-    <div>
+    <div class="justify-content-end2">
       <section class="row m-3 justify-content-around">
-        
         <nav class="d-flex">
             <h6 class="text-center p-3">Thanks for viewing my page! Check out my links</h6>
             <div class="col-2 d-flex justify-content-center">

@@ -32,3 +32,11 @@ code {
 .bg {
   background-color: rgb(233, 233, 233);
 }
+
+.headerback {
+  background-color: var(--lightg);
+}
+
+.profile-pic {
+  max-height: 500px;
+}
