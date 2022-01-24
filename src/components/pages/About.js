@@ -14,7 +14,7 @@ function About() {
         <h1 class="text-center">About Me</h1>
 
         <p class="border border border-2 p-height p-3">
-          Hello all! Heres a few facts about me: My name is Garrett. I am currently 22 years old and I live in a Metro-Atlanta city in Georgia called Marietta. 
+          Hello all! Welcome to my personal portfolio page. I made it from scratch using React and Bootstrap. Heres a few facts about me: My name is Garrett. I am currently 22 years old and I live in a Metro-Atlanta city in Georgia called Marietta. 
           I graduated early from highschool at 16 and took a 2 year Welding and Joining Technologies course at Chattahoochee Tech at 17. 
           In my spare time I pursue weight lifting and sports, as well as participate in volunteer work. 
           And although not very physical like my other interests, I've always been interested in computers!
@@ -26,7 +26,7 @@ function About() {
           I'm enjoying the journey of learning and am eager for my first job in the feild. 
           <br></br><br></br>
           If you want to see the accomplishments I'm most proud of, check out the Projects section.
-          And if you want to reach me, check out my resume, or see my other projects on Github, check out the Contact-me section.
+          And if you want to reach me, check out my resume, or see my other projects on Github, check out the links in the footer.
         </p>
       </div>
     </div>
