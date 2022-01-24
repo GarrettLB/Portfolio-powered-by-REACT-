@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/GarrettLB/Portfolio-powered-by-REACT-/static/css/main.073c9b0a.css",
-    "main.js": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/main.aa0c7f03.js",
+    "main.css": "/GarrettLB/Portfolio-powered-by-REACT-/static/css/main.03fbd31c.css",
+    "main.js": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/main.0df02c40.js",
     "static/js/787.31435040.chunk.js": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/787.31435040.chunk.js",
-    "static/media/logo.svg": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/WishListSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/WishListSS.94ab35980d744c4279af.png",
+    "static/media/WeatherSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/WeatherSS.f7f79dedfccac3cb8acf.png",
+    "static/media/TechReviewSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/TechReviewSS.2f0d1f472ff232b59780.png",
+    "static/media/DayPlannerSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/DayPlannerSS.04515c4bba330e88946b.png",
+    "static/media/NoteAppSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/NoteAppSS.5558d0739f5ff4e1343b.png",
+    "static/media/DrinkFinderSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/DrinkFinderSS.bca3f2b91e360e9b5f5d.png",
     "index.html": "/GarrettLB/Portfolio-powered-by-REACT-/index.html",
-    "main.073c9b0a.css.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/css/main.073c9b0a.css.map",
-    "main.aa0c7f03.js.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/main.aa0c7f03.js.map",
+    "main.03fbd31c.css.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/css/main.03fbd31c.css.map",
+    "main.0df02c40.js.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/main.0df02c40.js.map",
     "787.31435040.chunk.js.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/787.31435040.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.aa0c7f03.js"
+    "static/css/main.03fbd31c.css",
+    "static/js/main.0df02c40.js"
   ]
 }
