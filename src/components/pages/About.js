@@ -3,7 +3,7 @@ import ProfilePic from '../../images/ProfilePic.JPG'
 
 function About() {
   return (
-    <div class="row m-3 border-bottom border-dark justify-content-center">
+    <div class="row m-3 border-bottom border-top border-dark justify-content-center">
 
       <div class="col-12 col-lg-3 m-3 d-flex justify-content-center">
         <img src={ProfilePic} class="img-fluid profile-pic" alt="Profile Pic"></img>

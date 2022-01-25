@@ -50,9 +50,9 @@ code {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 5.0rem;            /* Footer height */
+  height: 5.0rem;   
 }
 
 .content-wrap {
-  padding-bottom: 5.0rem;    /* Footer height */
+  padding-bottom: 5.0rem;
 }
