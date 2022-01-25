@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GarrettLB/Portfolio-powered-by-REACT-/static/css/main.d084c2e7.css",
-    "main.js": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/main.df3aa665.js",
+    "main.css": "/GarrettLB/Portfolio-powered-by-REACT-/static/css/main.1701edbc.css",
+    "main.js": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/main.7a6d271b.js",
     "static/js/787.31435040.chunk.js": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/787.31435040.chunk.js",
     "static/media/WishListSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/WishListSS.94ab35980d744c4279af.png",
     "static/media/ProfilePic.JPG": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/ProfilePic.fbac2d54bb7c9df16069.JPG",
@@ -11,12 +11,12 @@
     "static/media/NoteAppSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/NoteAppSS.5558d0739f5ff4e1343b.png",
     "static/media/DrinkFinderSS.png": "/GarrettLB/Portfolio-powered-by-REACT-/static/media/DrinkFinderSS.bca3f2b91e360e9b5f5d.png",
     "index.html": "/GarrettLB/Portfolio-powered-by-REACT-/index.html",
-    "main.d084c2e7.css.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/css/main.d084c2e7.css.map",
-    "main.df3aa665.js.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/main.df3aa665.js.map",
+    "main.1701edbc.css.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/css/main.1701edbc.css.map",
+    "main.7a6d271b.js.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/main.7a6d271b.js.map",
     "787.31435040.chunk.js.map": "/GarrettLB/Portfolio-powered-by-REACT-/static/js/787.31435040.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d084c2e7.css",
-    "static/js/main.df3aa665.js"
+    "static/css/main.1701edbc.css",
+    "static/js/main.7a6d271b.js"
   ]
 }
