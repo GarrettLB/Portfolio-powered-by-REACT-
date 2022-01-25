@@ -5,7 +5,7 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 function Footer() {
   return (
-    <div class="bg">
+    <div class="bg footer">
       <section class="row m-3 justify-content-around">
         <nav class="d-flex">
             <h6 class="text-center p-3">Thanks for viewing my page! Check out my links</h6>

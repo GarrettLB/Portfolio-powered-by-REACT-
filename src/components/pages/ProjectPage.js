@@ -3,7 +3,7 @@ import projectlist from "../../projectList";
 
 function ProjectPage() {
   return (
-    <div class="row justify-content-around m-3">
+    <div class="row justify-content-around m-3 content-wrap">
 
       <h1 class="text-center">Projects</h1>
       
