@@ -28,7 +28,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/GarrettLB/Portfolio-powered-by-REACT-",
+  "homepage": "https://garrettlb.github.io/Portfolio-powered-by-REACT-/",
   "eslintConfig": {
     "extends": [
       "react-app",
