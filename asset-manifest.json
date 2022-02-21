@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-powered-by-REACT-/static/css/main.1701edbc.css",
-    "main.js": "/Portfolio-powered-by-REACT-/static/js/main.f2858e7b.js",
+    "main.js": "/Portfolio-powered-by-REACT-/static/js/main.66d2affc.js",
     "static/js/787.31435040.chunk.js": "/Portfolio-powered-by-REACT-/static/js/787.31435040.chunk.js",
     "static/media/BusinessConnectSS.png": "/Portfolio-powered-by-REACT-/static/media/BusinessConnectSS.bd52f237bd7cf439b18b.png",
     "static/media/WishListSS.png": "/Portfolio-powered-by-REACT-/static/media/WishListSS.94ab35980d744c4279af.png",
@@ -13,11 +13,11 @@
     "static/media/DrinkFinderSS.png": "/Portfolio-powered-by-REACT-/static/media/DrinkFinderSS.bca3f2b91e360e9b5f5d.png",
     "index.html": "/Portfolio-powered-by-REACT-/index.html",
     "main.1701edbc.css.map": "/Portfolio-powered-by-REACT-/static/css/main.1701edbc.css.map",
-    "main.f2858e7b.js.map": "/Portfolio-powered-by-REACT-/static/js/main.f2858e7b.js.map",
+    "main.66d2affc.js.map": "/Portfolio-powered-by-REACT-/static/js/main.66d2affc.js.map",
     "787.31435040.chunk.js.map": "/Portfolio-powered-by-REACT-/static/js/787.31435040.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1701edbc.css",
-    "static/js/main.f2858e7b.js"
+    "static/js/main.66d2affc.js"
   ]
 }
