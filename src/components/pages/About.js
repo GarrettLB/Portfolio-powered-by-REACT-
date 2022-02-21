@@ -3,17 +3,17 @@ import ProfilePic from '../../images/ProfilePic.JPG'
 
 function About() {
   return (
-    <div class="row m-3 border-bottom border-top border-dark justify-content-center">
+    <div className="row m-3 border-bottom border-top border-dark justify-content-center">
 
-      <div class="col-12 col-lg-3 m-3 d-flex justify-content-center">
-        <img src={ProfilePic} class="img-fluid profile-pic" alt="Profile Pic"></img>
+      <div className="col-12 col-lg-3 m-3 d-flex justify-content-center">
+        <img src={ProfilePic} className="img-fluid profile-pic" alt="Profile Pic"></img>
       </div>
 
-      <div class="col-12 col-lg-8 d-flex flex-column justify-content-center">
+      <div className="col-12 col-lg-8 d-flex flex-column justify-content-center">
 
-        <h1 class="text-center">About Me</h1>
+        <h1 className="text-center">About Me</h1>
 
-        <p class="border border border-2 p-height p-3">
+        <p className="border border border-2 p-height p-3">
           Hello all! Welcome to my personal portfolio page. I made it from scratch using React and Bootstrap. Here's a few facts 
           about me: My name is Garrett. I am 23 years old and I live in Metro Atlanta, and if you weren't able to tell already, 
           I'm an aspiring Web Developer! My journey so far has been nothing but great. I was introduced to the idea of Web Development 
