@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio-powered-by-REACT-/static/css/main.1701edbc.css",
-    "main.js": "/Portfolio-powered-by-REACT-/static/js/main.18aed370.js",
+    "main.js": "/Portfolio-powered-by-REACT-/static/js/main.f2858e7b.js",
     "static/js/787.31435040.chunk.js": "/Portfolio-powered-by-REACT-/static/js/787.31435040.chunk.js",
+    "static/media/BusinessConnectSS.png": "/Portfolio-powered-by-REACT-/static/media/BusinessConnectSS.bd52f237bd7cf439b18b.png",
     "static/media/WishListSS.png": "/Portfolio-powered-by-REACT-/static/media/WishListSS.94ab35980d744c4279af.png",
     "static/media/ProfilePic.JPG": "/Portfolio-powered-by-REACT-/static/media/ProfilePic.fbac2d54bb7c9df16069.JPG",
     "static/media/WeatherSS.png": "/Portfolio-powered-by-REACT-/static/media/WeatherSS.f7f79dedfccac3cb8acf.png",
@@ -12,11 +13,11 @@
     "static/media/DrinkFinderSS.png": "/Portfolio-powered-by-REACT-/static/media/DrinkFinderSS.bca3f2b91e360e9b5f5d.png",
     "index.html": "/Portfolio-powered-by-REACT-/index.html",
     "main.1701edbc.css.map": "/Portfolio-powered-by-REACT-/static/css/main.1701edbc.css.map",
-    "main.18aed370.js.map": "/Portfolio-powered-by-REACT-/static/js/main.18aed370.js.map",
+    "main.f2858e7b.js.map": "/Portfolio-powered-by-REACT-/static/js/main.f2858e7b.js.map",
     "787.31435040.chunk.js.map": "/Portfolio-powered-by-REACT-/static/js/787.31435040.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1701edbc.css",
-    "static/js/main.18aed370.js"
+    "static/js/main.f2858e7b.js"
   ]
 }
